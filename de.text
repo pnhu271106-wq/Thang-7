@@ -1,0 +1,71 @@
+vùng logo và tên chủ đề                 menu phụ + tìm kiếm
+-------------------------------------------------------------
+                 vùng banner website
+-------------------------------------------------------------
+    vùng menu    |   Vùng nội dung       |  vùng form 
+                 |        tiêu biểu      |      đăng kí
+      chính      |                       |
+                 |                       |
+                 | --------------------- |-------------------
+                 |   vùng nội dung 1     | vùng nội dung 2
+                 |                       |
+-------------------------------------------------------------
+                  footer (chân trang)
+
+
+
+vùng logo và tên chủ đề           tìm kiếm
+------------------------------------------
+             vùng banner website
+------------------------------------------
+    vùng menu   |   Vùng nội dung       
+                |        tiêu biểu      
+      chính     |                       
+                |                       
+                | --------------------- 
+                |   vùng nội dung 1     
+                |                       
+------------------------------------------
+                footer (chân trang)
+
+
+
+    Giới thiệu địa điểm du lịch Nha Trang
+
+
+header đầu trang
+main  giữa
+footer cuối
+
+cộng lại height = 100%
+
+
+aside thanh điều hướng (menu phụ) -> có thể ở trong header hoặc main
+nav thanh điều hướng (menu chính)
+
+# là của id
+. là của class
+
+
+padding: trên phải dưới trái;
+
+
+
+
+
+
+kế hoạch 1
+Ngày 1:
+ăn sáng -> Sáng đi Khách sạn cất đồ và 8h đi đảo Vinpearl tới trưa -> đi ăn (chỗ ăn 1 // khả năng ăn bên đảo) 
+nghỉ ngơi -> Chiều khoảng 3h đi dạo Quảng trường 2/4 hoặc tắm biển   -> đi ăn (chỗ ăn 2)
+-> Tối người lớn đi chợ đêm, trẻ hơn đi cà fee    (dự tính Chốn bình yên view biển)
+
+Ngày 2:
+Sáng dậy ăn sáng cà phê khoảng 8-9h đi I-resort tắm bùn,tắm nước tới trưa  ->  đi ăn (chỗ ăn 3)
+nghỉ ngơi -> Chiều khoảng 2-3h .....       -> đi ăn (chỗ ăn 4) 
+-> Tối người lớn đi chợ đêm ẩm thực | đi dạo Quảng trường, trẻ hơn đi cà fee (dự tính quán ...)
+
+Ngày 3:
+Sáng dậy ăn sáng cà phê -> Tắm biển tới Trưa (chỗ ăn 5)  
+-> nghỉ ngơi và đi về
+
