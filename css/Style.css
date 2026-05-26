@@ -43,8 +43,8 @@ header > img {
 }
 
 #logo img {
-    width: 75px;
-    height: 75px;
+    width: 65px;
+    height: 65px;
     object-fit: cover;
     border-radius: 50%;
     border: 2px solid white;
